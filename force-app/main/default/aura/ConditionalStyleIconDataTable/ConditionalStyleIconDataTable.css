@@ -1,0 +1,12 @@
+.THIS .redcolor {
+    color:red;
+}
+.THIS .blackcolor {
+    color:black;
+}
+.THIS .redcolor svg{
+    fill: red;
+}
+.THIS .blackcolor svg{
+    fill : black; 
+}
